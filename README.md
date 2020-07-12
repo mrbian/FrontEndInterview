@@ -15,8 +15,9 @@
 - 网络基础
 - 算法基础
 - ~~Webpack~~
+- JavaScript
+- CSS
 - Vue
 - React
 - Node.js
-- JavaScript
 - SQL
